@@ -1,0 +1,13 @@
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\bin\Debug\netcoreapp3.1\Electrical Network.exe
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\bin\Debug\netcoreapp3.1\Electrical Network.deps.json
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\bin\Debug\netcoreapp3.1\Electrical Network.runtimeconfig.json
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\bin\Debug\netcoreapp3.1\Electrical Network.runtimeconfig.dev.json
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\bin\Debug\netcoreapp3.1\Electrical Network.dll
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\bin\Debug\netcoreapp3.1\Electrical Network.pdb
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\obj\Debug\netcoreapp3.1\Electrical Network.csprojAssemblyReference.cache
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\obj\Debug\netcoreapp3.1\Electrical Network.AssemblyInfoInputs.cache
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\obj\Debug\netcoreapp3.1\Electrical Network.AssemblyInfo.cs
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\obj\Debug\netcoreapp3.1\Electrical Network.csproj.CoreCompileInputs.cache
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\obj\Debug\netcoreapp3.1\Electrical Network.dll
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\obj\Debug\netcoreapp3.1\Electrical Network.pdb
+C:\Users\Louis-Antoine Devos\source\repos\Electrical Network\Electrical Network\obj\Debug\netcoreapp3.1\Electrical Network.genruntimeconfig.cache
